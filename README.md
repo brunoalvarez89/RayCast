@@ -6,7 +6,7 @@ Trabajo final de la materia Procesamiento Digital de Imágenes de la carrera de 
 
 ![Alt text](https://github.com/brunoalvarez89/RayCast/blob/master/Screenshot.png)
 
-Podés descargar sets de imágenes de acá, acá y acá. 
+Podés descargar sets de imágenes de [acá](https://drive.google.com/folderview?id=0B72lvocrm-L4b1ZlbThGUGN1NzA&usp=sharing), [acá](https://drive.google.com/folderview?id=0B72lvocrm-L4ZEhaaHBtR0VzeVk&usp=sharing) y [acá](https://drive.google.com/folderview?id=0B72lvocrm-L4T1pDQWs4WktqaUE&usp=sharing). 
 
 La versión ya compilada la podés descargar de [acá](https://drive.google.com/file/d/0B72lvocrm-L4aUVFUEwxbHB3TXc/view?usp=sharing).
 
